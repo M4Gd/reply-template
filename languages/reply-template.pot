@@ -1,0 +1,107 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TODO 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2014-02-03 13:30+0330\n"
+"PO-Revision-Date: 2014-02-03 13:30+0330\n"
+"Last-Translator: FULL NAME <email@example.com>\n"
+"Language-Team: LANGUAGE <translations@example.com >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-changelog-admin.php:137
+msgid "Version Release Date"
+msgstr ""
+
+#: admin/class-changelog-admin.php:138
+msgid "Version Number"
+msgstr ""
+
+#: public/class-changelog.php:127
+msgid "Changelogs"
+msgstr ""
+
+#: public/class-changelog.php:128
+msgid "changelog"
+msgstr ""
+
+#: public/class-changelog.php:129
+msgid "Add Log"
+msgstr ""
+
+#: public/class-changelog.php:130
+msgid "All Logs"
+msgstr ""
+
+#: public/class-changelog.php:131
+msgid "Add New Log"
+msgstr ""
+
+#: public/class-changelog.php:132
+msgid "Edit Log"
+msgstr ""
+
+#: public/class-changelog.php:133
+msgid "New Log"
+msgstr ""
+
+#: public/class-changelog.php:134
+msgid "View ChangeLogs"
+msgstr ""
+
+#: public/class-changelog.php:135
+msgid "Search ChangeLogs"
+msgstr ""
+
+#: public/class-changelog.php:136
+msgid "No Log found"
+msgstr ""
+
+#: public/class-changelog.php:137
+msgid "No Log found in Trash"
+msgstr ""
+
+#: public/class-changelog.php:163
+msgid "ChangeLog Categories"
+msgstr ""
+
+#: public/class-changelog.php:164
+msgid "ChangeLog Category"
+msgstr ""
+
+#: public/class-changelog.php:165
+msgid "Search in ChangeLog Categories"
+msgstr ""
+
+#: public/class-changelog.php:166
+msgid "All ChangeLog Categories"
+msgstr ""
+
+#: public/class-changelog.php:170
+msgid "Edit ChangeLog Category"
+msgstr ""
+
+#: public/class-changelog.php:171
+msgid "Update ChangeLog Category"
+msgstr ""
+
+#: public/class-changelog.php:172
+msgid "Add new ChangeLog Category"
+msgstr ""
+
+#: public/class-changelog.php:173
+msgid "New ChangeLog Category"
+msgstr ""
+
+#: public/class-changelog.php:174
+msgid "Categories"
+msgstr ""

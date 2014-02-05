@@ -1,0 +1,8 @@
+#axi-replay-keys + .selectize-control {
+position: relative;
+margin-bottom: 7px;
+}
+
+#axi-replay-templates {
+	display:none;
+}
