@@ -11,7 +11,7 @@
  * Plugin Name:       Reply Templates
  * Plugin URI:        https://github.com/M4Gd/reply-template
  * Description:       A WordPress plugin that helps bbpress moderators to use reply templates while posting reply in bbpress forum.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            averta
  * Author URI:        http://averta.net
  * Text Domain:       reply-template
