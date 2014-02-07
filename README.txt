@@ -1,5 +1,8 @@
 === Changelog ===
 
+ Version 1.0.1 (07.02.2014)
+- bug fix while appending text to editor
+
  Version 1.0.0 (06.02.2014)
 - Initial release
 
