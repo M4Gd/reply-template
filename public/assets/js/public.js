@@ -21,7 +21,10 @@
 		$key_list.change(function(){
 			if(this.value !== '') {
 				var selected_reply_template = $value_list.filter('[data-reply-id="'+this.value+'"]').html();
-				$editor.append( selected_reply_template );
+				// append selected text to editor
+				$editor.val(function(i, text) {
+					return text + selected_reply_template;
+				});
 			}
 		});
 
